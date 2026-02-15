@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+google-generativeai
+supabase
+postgrest
+realtime
+storage3
+httpx
